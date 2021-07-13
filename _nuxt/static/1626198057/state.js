@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Faxie-tools\u002F_nuxt\u002Fstatic\u002F1626198057",layout:"dashboard",error:a,state:{user:a,dashboardDrawerOpen:a,locales:["en",b],locale:b},serverRendered:true,routePath:"\u002F",config:{app:{basePath:"\u002Faxie-tools\u002F",assetsPath:"\u002Faxie-tools\u002F_nuxt\u002F",cdnURL:a}}}}(null,"es"));
