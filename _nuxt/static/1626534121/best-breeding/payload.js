@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/best-breeding", {data:[{}],fetch:{},mutations:[]});
