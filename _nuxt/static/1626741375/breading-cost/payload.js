@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/breading-cost", {data:[{}],fetch:{},mutations:[]});
