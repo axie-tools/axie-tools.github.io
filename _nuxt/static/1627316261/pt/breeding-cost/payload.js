@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pt/breeding-cost", {data:[{}],fetch:{},mutations:[]});
