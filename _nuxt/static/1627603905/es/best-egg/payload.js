@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/best-egg", {data:[{}],fetch:{},mutations:[]});

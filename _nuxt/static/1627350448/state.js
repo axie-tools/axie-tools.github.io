@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b,c){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1627350448",layout:"default",error:a,state:{user:a,dashboardDrawerOpen:a,locales:[b,"es"],locale:b},serverRendered:true,routePath:c,config:{app:{basePath:c,assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},apollo:{defaultClient:Object.create(null)}}}(null,"en","\u002F"));
