@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/energy-counter", {data:[{}],fetch:{},mutations:[]});
