@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1632702758",layout:"default",error:a,state:{user:a,dashboardDrawerOpen:a,locales:["en",b],locale:b},serverRendered:true,routePath:"\u002Fes\u002Fenergy-counter",config:{app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},apollo:{defaultClient:Object.create(null)}}}(null,"es"));
