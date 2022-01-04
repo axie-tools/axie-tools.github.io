@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/damage-calculator", {data:[{}],fetch:{},mutations:[]});
