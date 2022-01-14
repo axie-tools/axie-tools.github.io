@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pt/battle-history", {data:[{}],fetch:{},mutations:[]});
