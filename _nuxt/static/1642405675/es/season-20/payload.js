@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/season-20", {data:[{}],fetch:{},mutations:[]});
