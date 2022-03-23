@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pt/generate/cards-origin", {data:[{}],fetch:{},mutations:[]});
